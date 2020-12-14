@@ -23,10 +23,14 @@ cask "1password-cli"
 cask "typora"
 cask "visual-studio-code"
 
+cask "notion"
+
+cask "microsoft-office"
+
 cask "tunnelbear"
 
 mas "KakaoTalk", id: 869223134
 mas "com.alice.mac.GetPlainText", id: 508368068
 mas "Notability", id: 736189492
 mas "Amphetamine", id: 937984704
-mas "Bandizip", id: 1265704574
+# mas "Bandizip", id: 1265704574
