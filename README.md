@@ -1,3 +1,3 @@
-# John's Dotfiles
+# Johnash's Dotfiles
 
-## 
+## Bootstrap
